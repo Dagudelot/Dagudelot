@@ -13,9 +13,9 @@ I am an AWS Cloud Practitioner
 
 I love learning 💞️
 
-- 🌱 I’m currently learning Python
+🌱 I’m currently learning Python
 
-- 📫 How to reach me
-daniel.agudelot07@gmail.com
-[+573005954214](wa.me//+573005954214)
-[LinkedIn](https://linkedin.com/in/dagudelot)
+📫 How to reach me
+- daniel.agudelot07@gmail.com
+- [+573005954214](wa.me//+573005954214)
+- [LinkedIn](https://linkedin.com/in/dagudelot)
