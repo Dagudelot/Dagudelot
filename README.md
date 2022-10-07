@@ -11,7 +11,7 @@ In a near future I am going to speak on Tech Conferences around the world, teach
 
 I am an AWS Cloud Practitioner 
 
-I love learning ❤💞️
+I love learning 💞️
 
 - 🌱 I’m currently learning Python
 
