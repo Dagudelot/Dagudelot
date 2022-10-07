@@ -17,5 +17,5 @@ I love learning 💞️
 
 📫 How to reach me
 - daniel.agudelot07@gmail.com
-- [+573005954214](wa.me//+573005954214)
+- [+573005954214](https://api.whatsapp.com/send?phone=573005954214)
 - [LinkedIn](https://linkedin.com/in/dagudelot)
