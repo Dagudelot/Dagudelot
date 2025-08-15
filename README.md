@@ -1,6 +1,6 @@
 👋 Hi, I’m @Dagudelot
 
-I am a Software Engineer with 6 years of experience and currently a Tests Automation Engineer at Choucair Testing 🧑🏼‍💻
+I am a Software Engineer with 6 years of experience and currently a Tests Automation Engineer at Globant 🧑🏼‍💻
 
 I like adding value in multiple areas of technology like coding, databases, UI design, cloud architectures and a lot of other technologies around software development, but I love delivering quality and that's why I am a tester
 
